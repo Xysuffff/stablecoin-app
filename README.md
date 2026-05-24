@@ -50,7 +50,7 @@ http://localhost:3000
 
 ## Status
 
-⚠️ Experimental prototype / work in progress
+This project is currently in active development and serves as an experimental stablecoin application prototype.
 
 ## Future Improvements
 
